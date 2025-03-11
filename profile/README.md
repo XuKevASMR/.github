@@ -1,4 +1,4 @@
-#🌀 Tranquil ASMR Beats – Open-Source Soundscapes & ASMR Music Tools 🎶#
+# 🌀 Tranquil ASMR Beats – Open-Source Soundscapes & ASMR Music Tools 🎶 #
 
 Welcome to **Tranquil ASMR Beats** on GitHub! We are a creative community dedicated to developing **open-source tools, AI-generated music, and ASMR-infused soundscapes** for **relaxation, meditation, and deep focus**. Our projects blend **Afrobeat, ambient trance, lo-fi, blues, folk, and experimental music** to create immersive audio experiences. 🎧✨  
 
